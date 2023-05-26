@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "- path:Diary",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Proj",
+      "color": {
+        "a": 1,
+        "rgb": 16056320
+      }
+    },
+    {
+      "query": "tag:#Phase",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "tag:#Experiment",
+      "color": {
+        "a": 1,
+        "rgb": 9371867
+      }
+    },
+    {
+      "query": "tag:#Person",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#Home",
+      "color": {
+        "a": 1,
+        "rgb": 16775930
+      }
+    },
+    {
+      "query": "tag:#Output",
+      "color": {
+        "a": 1,
+        "rgb": 16772608
+      }
+    },
+    {
+      "query": "tag:#Concept",
+      "color": {
+        "a": 1,
+        "rgb": 1421855
+      }
+    },
+    {
+      "query": "tag:#Paper",
+      "color": {
+        "a": 1,
+        "rgb": 11468651
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 2.52886555989583,
+  "lineSizeMultiplier": 1.542724609375,
+  "collapse-forces": false,
+  "centerStrength": 0.278178418803419,
+  "repelStrength": 20,
+  "linkStrength": 0.845296223958333,
+  "linkDistance": 469,
+  "scale": 0.05774400580302485,
+  "close": true
+}

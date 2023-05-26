@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "9dd4c70641507d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf65941cf9ae72d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/Proj-22b-7TPETMRS/Proj-22b-7TPETMRS-Phase-03.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f51ae2cf33e211",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2b3f3528dcf525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b36886a445d99a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "NAAG",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a03cd480e29c8b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74f1c7d2ea2c1920",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "1ab8ff4635510868",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8627abfd0c79464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "815796a9164554c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Proj-22b-7TPETMRS/Proj-22b-7TPETMRS-Phase-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "meeting",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8f48975a0cdbfb2e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "active": "bf65941cf9ae72d2",
+  "lastOpenFiles": [
+    "Projects/Proj-22b-7TPETMRS/Proj-22b-7TPETMRS.md",
+    "Projects/Proj-22b-7TPETMRS/Proj-22b-7TPETMRS-Cleanup.md",
+    "Dashboard.md",
+    "Diary/DailyNote/2022/10_October/2022-10-13 Thu.md",
+    "Projects/Proj-22b-7TPETMRS/Proj-22b-7TPETMRS-Phase-03.md",
+    "Projects/Proj-17a-NNGABA/Proj-17a-NNGABA-Phase-Resubmission.md",
+    "Diary/DailyNote/2022/10_October/2022-10-12 Wed.md",
+    "Projects/Proj22j-AutoAnalysis/Proj22j-AutoAnalysis-Phase-Setup.md",
+    "Projects/Proj-22j-AutoAnalysis/Proj22j-AutoAnalysis.md",
+    "Diary/DailyNote/2022/09_September/2022-09-02-Meeting-GeorgBack.md"
+  ]
+}

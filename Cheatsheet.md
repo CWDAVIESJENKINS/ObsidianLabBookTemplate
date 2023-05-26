@@ -1,0 +1,11 @@
+
+- Opt-s Paste project summary template
+- Opt-z Paste project phase template
+- Opt-p Paster person template
+- Opt-m Paste meeting template
+- Opt-t Paste Diary header for today
+- Opt-x Paste experiment template
+- Opt-shift-x Paste experiment link
+- Opt-g Paste Generic template
+- Opt-shift-g Paste generic link
+- Opt-Q Quarter template

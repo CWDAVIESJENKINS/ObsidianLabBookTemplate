@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "9dd4c70641507d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5cbc2b7e232a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c8d0331f47ac88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f51ae2cf33e211",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2b3f3528dcf525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b36886a445d99a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a03cd480e29c8b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e4bbdc486925a94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1ab8ff4635510868",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8627abfd0c79464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "815796a9164554c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8f48975a0cdbfb2e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c7c8d0331f47ac88",
+  "lastOpenFiles": [
+    "Cheatsheet.md",
+    "ObsidianLabBookTemplate/Templates/Scripts/CookieCutter.js",
+    "ObsidianLabBookTemplate/Templates/Scripts",
+    "ObsidianLabBookTemplate/Templates/Quarter.md",
+    "ObsidianLabBookTemplate/Templates/Project diary entry.md",
+    "ObsidianLabBookTemplate/Templates/Project Summary.md",
+    "ObsidianLabBookTemplate/Templates/Project Phase.md",
+    "ObsidianLabBookTemplate/Templates/Person.md",
+    "ObsidianLabBookTemplate/Templates/Meeting.md",
+    "ObsidianLabBookTemplate/Templates/Experiment.md",
+    "ObsidianLabBookTemplate/Templates/Experiment link.md",
+    "ObsidianLabBookTemplate/Templates/Daily.md",
+    "ObsidianLabBookTemplate/Templates",
+    "ObsidianLabBookTemplate/Projects/Archive",
+    "ObsidianLabBookTemplate/Projects",
+    "ObsidianLabBookTemplate/People/ExamplePerson.md",
+    "ObsidianLabBookTemplate/People",
+    "ObsidianLabBookTemplate/Diary/DailyNote/2023/05_May/2023-05-23 Tue.md",
+    "ObsidianLabBookTemplate/Diary/DailyNote/2023/05_May/2023-05-22 Mon.md",
+    "ObsidianLabBookTemplate/Diary/DailyNote/2023/05_May",
+    "ObsidianLabBookTemplate/Diary/DailyNote/2023",
+    "ObsidianLabBookTemplate/Diary/DailyNote",
+    "ObsidianLabBookTemplate/Diary",
+    "ObsidianLabBookTemplate/Dashboard.md",
+    "ObsidianLabBookTemplate/Cheatsheet.md",
+    "ObsidianLabBookTemplate/README.md",
+    "Projects/Proj-23x-Hackathon/Proj-23x-Hackathon.md",
+    "Dashboard.md",
+    "Diary/DailyNote/2023/05_May/2023-05-23 Tue.md",
+    "Diary/DailyNote/2023/05_May/2023-05-22 Mon.md",
+    "Templates/Project Summary.md",
+    "Projects/Proj-23x-HackathonTest/Proj-23x-HackathonTest.md",
+    "Projects/Proj-23x-Test2/Proj-23x-Test2.md",
+    "Projects/Proj-23x-Test/Proj-23x-Test.md",
+    "Templates/Project Phase.md",
+    "Projects/Proj-19a-DWMRS_USG/Pasted image 20230407172702.png"
+  ]
+}

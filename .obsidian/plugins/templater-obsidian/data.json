@@ -1,0 +1,40 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "Templates/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templates/Daily.md",
+    "Templates/Meeting.md",
+    "Templates/Project Summary.md",
+    "Templates/Project Phase.md",
+    "Templates/Person.md",
+    "Templates/Output.md",
+    "Templates/Project diary entry.md",
+    "Templates/Experiment link.md",
+    "Templates/Experiment.md",
+    "Templates/Concept.md",
+    "Templates/Generic Note.md",
+    "Templates/Generic Note link.md",
+    "Templates/Quarter.md",
+    "Templates/ProjTemp.md"
+  ],
+  "startup_templates": []
+}
